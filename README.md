@@ -1,5 +1,3 @@
-![Sumit Savaliya](https://github.com/sumitx28/sumitx28/blob/4688e91fa8afdbc524f715d91058cbf8d88f5f53/Header.png)
-
 <h2>Hey there! I'm Sumit</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me

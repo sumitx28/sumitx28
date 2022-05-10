@@ -1,4 +1,4 @@
-![Sumit Savaliya](https://github.com/sumitx28/sumitx28/blob/4688e91fa8afdbc524f715d91058cbf8d88f5f53/Header.png)
+<!-- ![Sumit Savaliya](https://github.com/sumitx28/sumitx28/blob/4688e91fa8afdbc524f715d91058cbf8d88f5f53/Header.png) -->
 
 <img alt="Night Coding" src="./Header.png" width='40' align="left"/><h2>Hey there! I'm Sumit</h2>
 

@@ -1,8 +1,6 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Sumit Savaliya](https://github.com/sumitx28/sumitx28/blob/4688e91fa8afdbc524f715d91058cbf8d88f5f53/Header.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img alt="Night Coding" src="./Header.png" width='40' align="left"/><h2>Hey there! I'm Sumit</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 

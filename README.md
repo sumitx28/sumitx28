@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Web Development and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for internships and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at savaliyasumit717@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1DEHP9bnV_4S2ncy2P5vYLcUZYA6hUmto/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1aGBvbcNa1YEIKGtL53xmAOxvZuiy58cN/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://github.com/sumitx28/sumitx28/blob/128bcc7db4230ef585c616f829f26c999d73386a/Night-Coding.gif" align="right"/>
 

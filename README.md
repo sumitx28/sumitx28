@@ -35,8 +35,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-### Profile Statistics
-</br>
 
-![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=sumitx28&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=sumitx28&hide=TeX&layout=compact&theme=radical)
+![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=sumitx28&count_private=true&show_icons=true&include_all_commits=true&theme=radical) | ![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=sumitx28&hide=TeX&layout=compact&theme=radical) |

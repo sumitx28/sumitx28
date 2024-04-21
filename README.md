@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursing Master in Applied Computer Science at Dalhousie University.\
+🎓 &nbsp;I'm currently learning about Cloud and Serverless architectures.\
 💬 &nbsp;Feel free to reach out to me for Full Time / COOP opportunities or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at sumit.savaliya@dal.ca! I'll try to respond as soon as I can. 
 

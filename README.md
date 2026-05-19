@@ -3,8 +3,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop with scalability.\
-🎓 &nbsp;I'm currently working on improving my knowledge of Data Structures & Algorithms and System Design.\
-💬 &nbsp;Feel free to reach out to me for Full Time opportunities or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at sumit.savaliya@dal.ca! 
 
 <img alt="Night Coding" src="https://github.com/sumitx28/sumitx28/blob/128bcc7db4230ef585c616f829f26c999d73386a/Night-Coding.gif" align="right"/>
